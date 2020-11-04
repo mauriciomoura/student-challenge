@@ -29,11 +29,6 @@ Conhecendo você melhor, poderemos selecionar quais desafios já podemos passar 
 
 - Consultar usuário pelo nome de usuário (username);
 - Desenvolver aplicação para consumir os serviços (web/mobile/pwa/twa);
-  - A aplicação deve listar as medias dos usuários de várias formas:
-    - Listar medias do usuário como um feed;
-    - Listar por data da criação da media;
-    - Listar por proximidade utilizando a geolocalização;
-    - Exibir medias em um mapa por geolocalização;
 - Utilizar recursos on cloud;
 - Implementar cadastro e login;
 - Implementar foto perfil do aluno.
